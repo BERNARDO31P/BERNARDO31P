@@ -12,7 +12,7 @@
 # GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo31p&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo31p&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo31p&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 # Technologies and Languages
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
